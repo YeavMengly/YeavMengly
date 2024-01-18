@@ -1,12 +1,16 @@
-<img align="center" src="https://camo.githubusercontent.com/fe036730cd3a294b1009c646183c70bbf1d2d17f2c03490f13e6d00dfe96ec78/68747470733a2f2f64657a696e65627261696e7a2e636f6d2f696d616765732f7765622d64657369676e2d6769662e676966" width="1150" height="355" alt="coding"/>
+<img align="center" src="https://dezinebrainz.com/images/software-gif.gif" width="1150" height="355" alt="coding"/>
 <h1 align="center">Hi 👋, I'm MENGLY</h1>
-<h3 align="center">A passionate mobile app developer..! from Cambodia</h3>
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" width="350"  alt="coding"/>
-- 🌱 I’m currently learning **Express , Node js, Python.**
+<h3 align="center">A passionate Mobile & Web app developer..! from Cambodia.</h3>
+<!-- <img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" width="350"  alt="coding"/> -->
+<img align="right" src="https://www.easternts.com/wp-content/uploads/2021/11/call-ets1.gif" width="350"  alt="coding"/>
+
+
+
+- 🌱 I’m currently learning **React Native, Express , Node js, Python.**
 
 - 👨‍💻 All of my projects are available at [https://mengly-yeav.vercel.app/](https://mengly-yeav.vercel.app/)
 
-- 💬 Ask me about **Flutter, Android, Kotlin, React Native, Laravel.**
+- 💬 Ask me about **Flutter, Android, Kotlin, React Native, React Js, Laravel.**
 
 - 📫 How to reach me **yeavmengly@gmail.com**
 
